@@ -1,0 +1,12 @@
+// Buat folder day2-1
+// Dalam folder tersebut, buka terminal dan ketik --> git init
+// Keluar nanti: package nama(day2-1)
+// Kalau tak mau namain --> enter enter saja
+// Is this OK? (yes)--> enter
+// keluar lah package.json
+
+// Coba install --> npm i chalk
+// Keluar nanti node_modules (yang seharusnya tak boleh ada kalau di github-->karena akan memberatkan)
+// Buat file baru --> .gitignore
+// Masukin --> /node_modules (memang itu aja yang dimasukin)
+// Kalau git init nanti node modulesnya tidak ikut kebawa
