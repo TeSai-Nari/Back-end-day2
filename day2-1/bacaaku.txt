@@ -1,5 +1,5 @@
 // Buat folder day2-1
-// Dalam folder tersebut, buka terminal dan ketik --> git init
+// Dalam folder tersebut, buka terminal dan ketik --> npm init
 // Keluar nanti: package nama(day2-1)
 // Kalau tak mau namain --> enter enter saja
 // Is this OK? (yes)--> enter
